@@ -82,6 +82,7 @@ emoji['+1'] = "👍"
 emoji['-1'] = "👎"
 emoji['upside_down_face'] = "🙃"
 emoji['nauseated_face'] = "🤢"
+emoji['shrug'] = "🤷"
 
 local function str2emoji(str)
 	if not str then return '' end
